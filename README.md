@@ -12,10 +12,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thijnperd&layout=compact&theme=radical)
 
 ## 🌱 Currently Learning
-- Advanced Python libraries (NumPy, Pandas)  
+- Advanced Python libraries
 - Full-stack web development  
-- Algorithms & competitive programming  
+- Algorithms & competitive programming
 
-## 💬 Get in Touch
-- [LinkedIn](https://www.linkedin.com/)  
-- [Email](mailto:youremail@example.com)  
