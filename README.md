@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Thijnperd GitHub stats](https://github-readme-stats.vercel.app/api?username=thijnperd&show_icons=true&theme=radical)
 
 <!--
 **thijnperd/thijnperd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
