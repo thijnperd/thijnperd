@@ -6,7 +6,7 @@
 
 
 ## 📊 GitHub Stats
-![Thijn's GitHub stats](https://github-readme-stats.vercel.app/api?username=thijnperd&show_icons=true&theme=radical&count_private=true)
+![Thijn's GitHub stats](https://github-readme-stats.vercel.app/api?username=thijnperd&show_icons=true&theme=radical&count_private=false)
 
 ## 🖥️ Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thijnperd&layout=compact&theme=radical)
