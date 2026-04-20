@@ -10,7 +10,7 @@ I'm on a mission to become a **vibe-coding mastermind** — using my JS, HTML an
 - **Collab stack:** Claude (lowk the goat)
 
 ## ⚡ How I build
-I know enough to know what I want to build and enough to debug when things go sideways. The rest is a conversation with Claude — co-authoring, iterating, and screaming at bro what to do.
+I know enough to know what I want to build and enough to debug when things go sideways. The rest is a conversation with Claude - co-authoring, iterating, and screaming at bro what to do.
 
 ## 🌱 Currently levelling up
 - Prompt engineering & AI-assisted development
