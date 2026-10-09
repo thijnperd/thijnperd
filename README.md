@@ -1,12 +1,10 @@
 # Thijn Köhne
 
-I build things that shouldn't work in a browser, but do.
+When technology shifts, we should not stay behind, so in co-creation with AI, I build things that do and don't yet exist in browsers, but definately should.
 
 Right now that means an image/video dithering press, a first-person raycaster,
-an expectimax 2048 AI and a particle sandbox — all plain HTML/CSS/JS, no build
-step, no framework, no dependencies. Open the folder and it runs. Where a
-project has a simulation core, that core also runs in Node under tests,
-because "it looks right" isn't a specification.
+an expectimax 2048 AI and a *bad* particle sandbox — all plain HTML/CSS/JS, no build
+step, no framework, no dependencies. Open the folder and it runs.
 
 ## [**Dither Studio**](https://github.com/thijnperd/dither-studio) — the flagship
 
@@ -87,13 +85,10 @@ Badges are for the languages I ship, not the languages I installed once:
   and timing budgets.
 - **Performance budgets.** The preview-vs-full render split, capped working
   sizes and lazy mask generation keep every project running comfortably on an
-  ordinary laptop — measured, not hoped.
+  ordinary laptop, measured.
 
 ## Contact
 
 Open an issue on any repo above — I read them.
 
 ---
-
-*In the spirit of the projects: this profile is plain Markdown, no statistics
-widgets or trophy racks. Source code is the portfolio.*
