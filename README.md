@@ -89,6 +89,4 @@ Badges are for the languages I ship, not the languages I installed once:
 
 ## Contact
 
-Open an issue on any repo above — I read them.
-
----
+Open an issue on any repo above - I probably read them.
