@@ -51,15 +51,15 @@ The whole collection lives in [AI_test_portfolio](https://github.com/thijnperd/A
 
 ## Other builds
 
-- **[PolyTAS](https://github.com/thijnperd/PolyTAS)** — tool-assisted speedrun
+- **[PolyTAS](https://github.com/thijnperd/PolyTAS)** - tool-assisted speedrun
   editor for PolyTrack: per-frame input editing, live recording, replay script
-  generation. Chrome MV3.
-- **[Imdb_ML](https://github.com/thijnperd/Imdb_ML)** — Python ML that predicts
-  a movie's rating from its description.
-- **[AIChooser](https://github.com/thijnperd/AIChooser)** — a flowchart-style
+  generation. Co-Authored by [@Yannis-Raijmakers](https://github.com/Yannis-Raijmakers), Chrome MV3. **Deprecated**
+- **[Imdb_ML](https://github.com/thijnperd/Imdb_ML)** - Python ML that predicts
+  a movie's rating from its description. Co-Authored by Hazel
+- **[AIChooser](https://github.com/thijnperd/AIChooser)** - a flowchart-style
   site for finding the right AI for the job. TypeScript.
-- **[Dagtekst-Widget](https://github.com/thijnperd/Dagtekst-Widget)** — a Dutch
-  daily-text widget.
+- **[Dagtekst-Widget](https://github.com/thijnperd/Dagtekst-Widget)** - a Multi-Language
+  daily-bibletext widget.
 - **Balatro mods** in Lua (not public — ask me about them).
 
 ## Stack
