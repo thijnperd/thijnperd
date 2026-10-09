@@ -1,6 +1,6 @@
 # Thijn Köhne
 
-When technology shifts, we should not stay behind, so in co-creation with AI, I build things that do and don't yet exist in browsers, but definately should.
+When technology shifts, we should not stay behind. So in co-creation with AI, I build things that do and don't yet exist in browsers, but definately should.
 
 Right now that means an image/video dithering press, a first-person raycaster,
 an expectimax 2048 AI and a *bad* particle sandbox — all plain HTML/CSS/JS, no build
