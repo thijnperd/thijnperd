@@ -6,7 +6,7 @@ Right now that means an image/video dithering press, a first-person raycaster,
 an expectimax 2048 AI and a *bad* particle sandbox — all plain HTML/CSS/JS, no build
 step, no framework, no dependencies. Open the folder and it runs.
 
-## [**Dither Studio**](https://github.com/thijnperd/dither-studio) — the flagship
+## [**Dither Studio**](https://github.com/thijnperd/dither-studio)
 
 An offline dithering press for images *and video*, written from scratch with
 zero dependencies. Not a toy: it carries **46 dithering algorithms** (from
