@@ -14,4 +14,4 @@ Badges are for the languages I larp, not the languages I installed once:
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
 ## Contact
-Open an issue on any repo above - I probably read them.
+Open an issue on any repo - I probably read them.
