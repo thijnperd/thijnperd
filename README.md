@@ -32,7 +32,7 @@ Windows — menus, tool rail, docked panels, native dialogs — released
 
 ## The workshop
 
-Everything below is self-contained, dependency-free and covered by tests where
+Everything below is self-contained, dependency-free and covered by ai_tests where
 it has a core worth specifying. Live where possible; screenshots everywhere.
 
 | Project | What it is |
