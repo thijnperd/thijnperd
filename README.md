@@ -64,7 +64,7 @@ The whole collection lives in [AI_test_portfolio](https://github.com/thijnperd/A
 
 ## Stack
 
-Badges are for the languages I ship, not the languages I installed once:
+Badges are for the languages I larp, not the languages I installed once:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
