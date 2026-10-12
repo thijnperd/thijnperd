@@ -1,4 +1,5 @@
 # Thijn Köhne
+Hi i'm Thijn Figo Köhne, I larp coding (some may call me a vibe-coder).
 
 ## Stack
 Badges are for the languages I larp, not the languages I installed once:
