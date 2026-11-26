@@ -4,6 +4,6 @@ Hi, I'm Thijn Figo Köhne, a student from the Netherlands. I mostly vibe-code sm
 
 Main projects are on my site: https://thijnperd.github.io/thijnperd-portfolio-site/
 
-Most of it is written in JavaScript/TypeScript, Python, and HTML/CSS, with some Electron, Rust, and Lua mixed in.
+Most of it is written in JavaScript/TypeScript, Python, and HTML/CSS, with some Electron and Rust mixed in.
 
 If something breaks or you want to reach me, open an issue on any repo.
